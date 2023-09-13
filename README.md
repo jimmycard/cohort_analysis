@@ -1,4 +1,4 @@
-# cohort_analysis
+# customer_cohort_analysis
 This project encompasses various analyses conducted on distinct customer datasets, categorized into four separate analyses:
 
 Tracking Customer Behavior: This involves grouping customers based on their acquisition channels and tracking their activities across different months and years of acquisition.
